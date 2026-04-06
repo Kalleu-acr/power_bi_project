@@ -20,9 +20,9 @@ Analisar a relação entre a infraestrutura das escolas e os resultados educacio
 
 ## Estrutura do Repositório
 power_bi_project/
-│
-├─ README.md # Descrição do projeto
-├─ data/ # Arquivos originais do Censo e SAEB
-├─ scripts/ # Scripts de tratamento e análise de dados
-├─ output/ # Resultados processados (CSV, gráficos, tabelas)
-└─ docs/ # Documentos auxiliares (ex.: dicionário de dados)
+.│
+.├─ README.md # Descrição do projeto
+.├─ data/ # Arquivos originais do Censo e SAEB
+.├─ scripts/ # Scripts de tratamento e análise de dados
+.├─ output/ # Resultados processados (CSV, gráficos, tabelas)
+.└─ docs/ # Documentos auxiliares (ex.: dicionário de dados)
